@@ -1,0 +1,27 @@
+{
+    "lastUpdated": "2025-11-11 10:32:09",
+    "accounts": [
+    {
+    "pin": "8589",
+    "balance": 43000.0,
+    "name": "Sivajothi",
+    "transactionHistory": [
+    "2025-11-11 10:23:56 - Account created with initial balance: $5000.0",
+    "2025-11-11 10:24:27 - Deposit: +$50000.0 | Balance: $55000.0",
+    "2025-11-11 10:24:43 - Withdrawal: -$6000.0 | Balance: $49000.0",
+    "2025-11-11 10:27:57 - Transfer: -$6000.0 to Maleshkumar | Balance: $43000.0"
+],
+    "userId": "USER1910"
+},
+    {
+    "pin": "3538",
+    "balance": 14000.0,
+    "name": "Maleshkumar",
+    "transactionHistory": [
+    "2025-11-11 10:26:11 - Account created with initial balance: $8000.0",
+    "2025-11-11 10:27:57 - Deposit: +$6000.0 | Balance: $14000.0"
+],
+    "userId": "USER7696"
+}
+]
+}
